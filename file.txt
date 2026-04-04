@@ -1,1 +1,3 @@
 Hi
+
+Added new functionality for search feature.
